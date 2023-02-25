@@ -4,7 +4,7 @@ The project is a complex password generator that has been built using HTML, CSS,
 
 ![password](https://user-images.githubusercontent.com/70109681/221341990-49fb3cbf-c64d-4a78-ba2d-3e0b04369f57.png)
 
-You only have to check the box if you want that particular format in ypur password .
+You only have to check the box if you want that particular format in your password .
 
 
 
