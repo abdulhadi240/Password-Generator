@@ -9,3 +9,7 @@ You only have to check the box if you want that particular format in your passwo
 
 
 ![password1](https://user-images.githubusercontent.com/70109681/221341993-e27b0baf-1b73-48a1-a352-d03eb9c8b25b.png)
+
+HERE IS THE VIDEO OF WHAT THIS PROJECT IS ALL ABOUT!!
+
+https://user-images.githubusercontent.com/70109681/221342696-c60520e5-d93d-4fb0-83e5-3d43672f50cb.mp4
